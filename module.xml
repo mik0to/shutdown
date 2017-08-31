@@ -2,12 +2,12 @@
   <rawname>shutdown</rawname>
   <repo>standard</repo>
   <name>Shutdown System</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <publisher>Sangoma Technologies Corporation</publisher>
   <license>GPLv2+</license>
   <licenselink>http://www.gnu.org/licenses/gpl-2.0.txt</licenselink>
   <changelog>
-		1.0.0 Update
+		1.0.0 Release
 	</changelog>
   <category>admin</category>
   <menuitems>
